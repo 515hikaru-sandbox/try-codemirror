@@ -1,0 +1,20 @@
+{
+  "name": "try-codemirror",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/515hikaru-sandbox/try-codemirror.git"
+  },
+  "keywords": [],
+  "author": "515hikaru <12kojima.takahiro@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/515hikaru-sandbox/try-codemirror/issues"
+  },
+  "homepage": "https://github.com/515hikaru-sandbox/try-codemirror#readme"
+}
