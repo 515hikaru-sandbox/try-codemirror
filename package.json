@@ -18,6 +18,11 @@
   },
   "homepage": "https://github.com/515hikaru-sandbox/try-codemirror#readme",
   "dependencies": {
-    "codemirror": "^5.54.0"
+    "monaco-editor": "^0.20.0"
+  },
+  "devDependencies": {
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.11.0"
   }
 }
