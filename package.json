@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/515hikaru-sandbox/try-codemirror/issues"
   },
-  "homepage": "https://github.com/515hikaru-sandbox/try-codemirror#readme"
+  "homepage": "https://github.com/515hikaru-sandbox/try-codemirror#readme",
+  "dependencies": {
+    "codemirror": "^5.54.0"
+  }
 }
